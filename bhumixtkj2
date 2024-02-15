@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SOAL PG ALAT UKUR TJKT</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  </head>
+  <body>
+        <div class="container">
+    <h1>SOAL PG ALAT UKUR TJKT</h1>
+    <hr>   
+    <p>
+1. Fungsi dari mistar baja (caliper) adalah….<br>
+<b>a. Tinggi benda bertingkat </b><br>
+b. Cela katup <br>
+c. Cela klep <br>
+d. Cela platina <br>
+e. Gerak bebas <br>
+   </p>
+   <p>
+2. Multitester yang hasil pengukurannya ditunjukan langsung oleh sebuah jarum adalah..<br>
+a. Multitester digital <br>
+b. Multitester berimpit <br>
+<b>c. Multitester analog </b> <br>
+d. Hidrometer <br>
+e. Timing light <br>
+    </p>
+    <p>
+3. Alat ukur yang biasa digunakan operator mesin yang dapat mengukur panjang sampai dengan 200 mm adalah
+<b>a. jangka sorong </b> <br>
+b. mikrometer
+c. dial indicator
+d. mistar baja
+e. mistar geser
+</p>
+<p>
+4. Alat-alat berikut yang termasuk dalam alat ukur presisi adalah
+<b>a. jangka sorong </b> <br>
+ b. jangka kaki
+ c. jangka bengkok
+ d. jangka orleon
+ e. mistar ukur
+</p>
+<p>
+5. Apa fungsi dari alat ukur multimeter?
+a. Mengukur panjang
+b. Mengukur tekanan
+<b>c. Mengukur arus listrik </b> <br>
+d. Mengukur volume
+e. jangka sorong
+</p>
+<p>
+6. Apa yang diukur oleh alat ukur pH meter?
+a. Tekanan udara
+<b>b. pH larutan </b> <br>
+c. Kadar garam
+d. Suhu udara
+e. termometer
+</p>
+<p>
+7. Alat ukur manometer digunakan untuk mengukur apa?
+a. Suhu
+<b>b. Tekanan udara </b> <br>
+c. Kelembaban
+d. Ketinggian
+e. kedalaman
+</p>
+<p>
+8. Alat ukur anemometer digunakan untuk mengukur apa?
+a. Kekuatan arus listrik
+<b>b. Kecepatan angin </b> <br>
+c. Massa
+d. Temperatur
+e. suhu
+</p>
+<p>
+9. Alat ukur tachometer digunakan untuk mengukur apa?
+a. Tekanan ban
+b. Ketinggian
+<b>c. Putaran mesin </b> <br>
+d. Kekuatan tarikan
+e. kekuatan arus listrik
+</p>
+<p>
+10. Apa yang diukur oleh alat ukur termometer?
+a. Tekanan
+b. Kecepatan angin
+c. tekanan ban
+d. Arus listrik
+<b>e. Suhu </b> <br>
+</p>
+<p>
+11. Alat ukur vernier caliper berguna untuk mengukur apa?
+<b>a. Panjang </b> <br>
+b. Volume
+c. Berat
+d. Luas
+e. tinggi
+</p>
+<p>
+12. Apa yang diukur oleh alat ukur lux meter?
+<b>a. Intensitas cahaya </b> <br>
+b. Tebal lapisan cat
+c. Suhu
+d. Kekuatan angin
+e. suhu udara
+</p>
+<p>
+13. Alat ukur barometer digunakan untuk mengukur apa?
+a. Tekanan air
+b. Ketinggian
+<b>c. Tekanan atmosfer </b> <br>
+d. Kedalaman laut
+e. tebal lapisan cat
+</p>
+<p>
+14. Apa yang diukur oleh alat ukur ammeter?
+a. Tegangan listrik
+<b>b. Arus listrik </b> <br>
+c. Frekuensi gelombang
+d. Suhu
+e. kedalaman laut
+</p>
+<p>
+15. Alat ukur pneumatik mempunyai komponen-komponen utama, kecuali
+a. Pengatur tekanan udara
+<b>b. Pengeras </b> <br>
+c. Perkakas
+d. Penguat
+e. Master penyetelan
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+  </body>
+</html>
